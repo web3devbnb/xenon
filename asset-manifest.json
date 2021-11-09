@@ -8,8 +8,8 @@
     "static/js/2.431ea226.chunk.js.map": "https://farm.xenonswap.org/static/js/2.431ea226.chunk.js.map",
     "static/js/3.d9af694c.chunk.js": "https://farm.xenonswap.org/static/js/3.d9af694c.chunk.js",
     "static/js/3.d9af694c.chunk.js.map": "https://farm.xenonswap.org/static/js/3.d9af694c.chunk.js.map",
-    "main.js": "https://farm.xenonswap.org/static/js/main.f8fcdc45.chunk.js",
-    "main.js.map": "https://farm.xenonswap.org/static/js/main.f8fcdc45.chunk.js.map",
+    "main.js": "https://farm.xenonswap.org/static/js/main.914548e7.chunk.js",
+    "main.js.map": "https://farm.xenonswap.org/static/js/main.914548e7.chunk.js.map",
     "runtime-main.js": "https://farm.xenonswap.org/static/js/runtime-main.dcdcf071.js",
     "runtime-main.js.map": "https://farm.xenonswap.org/static/js/runtime-main.dcdcf071.js.map",
     "static/js/6.7de1a741.chunk.js": "https://farm.xenonswap.org/static/js/6.7de1a741.chunk.js",
@@ -34,6 +34,6 @@
   "entrypoints": [
     "static/js/runtime-main.dcdcf071.js",
     "static/js/6.7de1a741.chunk.js",
-    "static/js/main.f8fcdc45.chunk.js"
+    "static/js/main.914548e7.chunk.js"
   ]
 }
