@@ -8,16 +8,16 @@
     "static/js/2.431ea226.chunk.js.map": "https://farm.xenonswap.org/static/js/2.431ea226.chunk.js.map",
     "static/js/3.d9af694c.chunk.js": "https://farm.xenonswap.org/static/js/3.d9af694c.chunk.js",
     "static/js/3.d9af694c.chunk.js.map": "https://farm.xenonswap.org/static/js/3.d9af694c.chunk.js.map",
-    "main.js": "https://farm.xenonswap.org/static/js/main.914548e7.chunk.js",
-    "main.js.map": "https://farm.xenonswap.org/static/js/main.914548e7.chunk.js.map",
-    "runtime-main.js": "https://farm.xenonswap.org/static/js/runtime-main.dcdcf071.js",
-    "runtime-main.js.map": "https://farm.xenonswap.org/static/js/runtime-main.dcdcf071.js.map",
-    "static/js/6.7de1a741.chunk.js": "https://farm.xenonswap.org/static/js/6.7de1a741.chunk.js",
-    "static/js/6.7de1a741.chunk.js.map": "https://farm.xenonswap.org/static/js/6.7de1a741.chunk.js.map",
+    "main.js": "https://farm.xenonswap.org/static/js/main.269ca5b9.chunk.js",
+    "main.js.map": "https://farm.xenonswap.org/static/js/main.269ca5b9.chunk.js.map",
+    "runtime-main.js": "https://farm.xenonswap.org/static/js/runtime-main.2535759b.js",
+    "runtime-main.js.map": "https://farm.xenonswap.org/static/js/runtime-main.2535759b.js.map",
+    "static/js/6.e87ffcc0.chunk.js": "https://farm.xenonswap.org/static/js/6.e87ffcc0.chunk.js",
+    "static/js/6.e87ffcc0.chunk.js.map": "https://farm.xenonswap.org/static/js/6.e87ffcc0.chunk.js.map",
     "static/js/7.24355edd.chunk.js": "https://farm.xenonswap.org/static/js/7.24355edd.chunk.js",
     "static/js/7.24355edd.chunk.js.map": "https://farm.xenonswap.org/static/js/7.24355edd.chunk.js.map",
-    "static/js/8.2b1aaf29.chunk.js": "https://farm.xenonswap.org/static/js/8.2b1aaf29.chunk.js",
-    "static/js/8.2b1aaf29.chunk.js.map": "https://farm.xenonswap.org/static/js/8.2b1aaf29.chunk.js.map",
+    "static/js/8.aee99a41.chunk.js": "https://farm.xenonswap.org/static/js/8.aee99a41.chunk.js",
+    "static/js/8.aee99a41.chunk.js.map": "https://farm.xenonswap.org/static/js/8.aee99a41.chunk.js.map",
     "static/js/9.f156a41a.chunk.js": "https://farm.xenonswap.org/static/js/9.f156a41a.chunk.js",
     "static/js/9.f156a41a.chunk.js.map": "https://farm.xenonswap.org/static/js/9.f156a41a.chunk.js.map",
     "static/js/10.8530cb98.chunk.js": "https://farm.xenonswap.org/static/js/10.8530cb98.chunk.js",
@@ -29,11 +29,11 @@
     "static/js/13.23407697.chunk.js": "https://farm.xenonswap.org/static/js/13.23407697.chunk.js",
     "static/js/13.23407697.chunk.js.map": "https://farm.xenonswap.org/static/js/13.23407697.chunk.js.map",
     "index.html": "https://farm.xenonswap.org/index.html",
-    "static/js/6.7de1a741.chunk.js.LICENSE.txt": "https://farm.xenonswap.org/static/js/6.7de1a741.chunk.js.LICENSE.txt"
+    "static/js/6.e87ffcc0.chunk.js.LICENSE.txt": "https://farm.xenonswap.org/static/js/6.e87ffcc0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcdcf071.js",
-    "static/js/6.7de1a741.chunk.js",
-    "static/js/main.914548e7.chunk.js"
+    "static/js/runtime-main.2535759b.js",
+    "static/js/6.e87ffcc0.chunk.js",
+    "static/js/main.269ca5b9.chunk.js"
   ]
 }
