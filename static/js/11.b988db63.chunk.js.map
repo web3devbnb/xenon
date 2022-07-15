@@ -1,1 +1,1 @@
-{"version":3,"sources":["views/Farms/index.ts"],"names":[],"mappings":"6HAAA","file":"static/js/11.b988db63.chunk.js","sourcesContent":["export { default } from './Farms'\r\n"],"sourceRoot":""}
+{"version":3,"sources":["../../../../x2p/XenonFarmCopy1/src/views/Farms/index.ts"],"names":[],"mappings":"6HAAA","file":"static/js/11.b988db63.chunk.js","sourcesContent":["export { default } from './Farms'\r\n"],"sourceRoot":""}
